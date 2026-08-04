@@ -59,5 +59,5 @@ Player Control:
 \
 [harinezumi: by waera](https://ncs.io/harinezumi)
 
-### Image (Generate by Gemini: Nano Banana Pro)
+### Image (Generate by Gemini: Nano Banana 2 Pro)
 [Gemini Google](https://gemini.google.com)
