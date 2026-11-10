@@ -68,3 +68,22 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# IDE caches and local workspace state
+.vs/
+.idea/
+.clion/
+cmake-build-*/
+.vscode/.cache/
+.vscode/*.log
+
+# Personal documents
+*.pdf
+*.doc
+*.docx
+*.odt
+*.rtf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
